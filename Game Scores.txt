@@ -1,7 +1,7 @@
 Scores
 
-K-
-D-
-A-
-GPM-
-XPM-
+K-0
+D- 0
+A- 0
+GPM- 0 
+XPM- 0
