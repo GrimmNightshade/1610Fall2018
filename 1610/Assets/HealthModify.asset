@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: HealthModify
   m_EditorClassIdentifier: 
   ValueObj: {fileID: 11400000, guid: 17fafca02cf9c314f9dc972b68b16286, type: 2}
-  Maxvalue: {fileID: 0}
-  MinValue: {fileID: 0}
+  Maxvalue: {fileID: 11400000, guid: 47d140c02b478964a8cbde7ad18e3022, type: 2}
+  MinValue: {fileID: 11400000, guid: 55a847b27b5e2844e98ac547e9a575bb, type: 2}
   EventMax:
     m_PersistentCalls:
       m_Calls: []
