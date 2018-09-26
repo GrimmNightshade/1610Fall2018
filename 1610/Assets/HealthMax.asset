@@ -9,6 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa4c31720c2c60a4099c61b032564d2c, type: 3}
-  m_Name: Health
+  m_Name: HealthMax
   m_EditorClassIdentifier: 
-  Value: 910
+  Value: 0
