@@ -1,0 +1,9 @@
+TriggerEvent
+
+Write Value Change
+Script is on canvis if his not lying
+
+function for math
+add
+subract
+multiplys Devides
