@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71ed5bf36a351b6409c2c205862584c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WizardPower: {instanceID: 0}
+  - PawnPower: {instanceID: 0}
+  - Lock: {fileID: 11400000, guid: 6f2ae1541c6bd2b438e2ed38a48d3ec3, type: 2}
+  - Key: {fileID: 11400000, guid: 6f2ae1541c6bd2b438e2ed38a48d3ec3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
