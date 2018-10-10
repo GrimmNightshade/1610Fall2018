@@ -18,6 +18,13 @@
         <e p="OnCollision.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="AddMoney.cs" t="Include" />
+          <e p="CharacterMover" t="Include">
+            <e p="CharacterMover.cs" t="Include" />
+            <e p="DestroyObject.cs" t="Include" />
+            <e p="Instancing.cs" t="Include" />
+            <e p="LocalVars.cs" t="Include" />
+            <e p="WhatCanSeeIt.cs" t="Include" />
+          </e>
           <e p="FirstGame" t="Include">
             <e p="AlterForce.cs" t="Include" />
             <e p="OnPlayerMove.cs" t="Include" />

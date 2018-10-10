@@ -11,46 +11,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IfStatements.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IfStatements.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhatCanSeeIt.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <marker date="1538429412151" expanded="false" signature="6:78" ph="..." />
-                <marker date="1538429412151" expanded="true" signature="121:736" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="297:734" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="328:380" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="401:453" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="487:546" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="571:613" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="639:672" ph="{...}" />
-                <marker date="1538429412151" expanded="true" signature="695:728" ph="{...}" />
+                <marker date="1539206384218" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539206384218" expanded="true" signature="125:681" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="265:288" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="316:337" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="363:372" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="412:513" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="440:510" ph="{...}" />
+                <marker date="1539206384218" expanded="true" signature="448:506" ph="/* newobject.EnergyLevel = 100; ... */" />
+                <marker date="1539206384218" expanded="true" signature="515:679" ph="/* public class Child : WhatCanSeeIt() ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameID.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
+      <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
-                <marker date="1538429428020" expanded="true" signature="6:78" ph="..." />
-                <marker date="1538429428020" expanded="false" signature="80:99" ph="[...]" />
-                <marker date="1538429428020" expanded="true" signature="140:148" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1537390574079" expanded="true" signature="80:104" ph="{...}" />
+                <marker date="1539206098966" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539206098966" expanded="true" signature="118:287" ph="{...}" />
+                <marker date="1539206098966" expanded="true" signature="159:196" ph="{...}" />
+                <marker date="1539206098966" expanded="true" signature="233:284" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,15 +61,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs" />
       </list>
     </option>
   </component>
@@ -81,8 +84,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="409" />
+    <option name="y" value="33" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -92,6 +95,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
@@ -104,10 +111,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -146,11 +149,12 @@
       <workItem from="1538427076740" duration="4000" />
       <workItem from="1538427083751" duration="4000" />
       <workItem from="1538427523318" duration="1862000" />
+      <workItem from="1539205757687" duration="1310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1870000" />
+    <option name="totallyTimeSpent" value="3180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -162,32 +166,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="409" y="33" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32946634" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,11 +201,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1539203983781" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539203983781" expanded="true" signature="80:99" ph="[...]" />
+            <marker date="1539203983781" expanded="true" signature="140:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1537390574079" expanded="true" signature="80:104" ph="{...}" />
+            <marker date="1539203983751" expanded="true" signature="80:104" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -212,9 +234,18 @@
         <state relative-caret-position="105">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
-            <marker date="1538429428020" expanded="true" signature="6:78" ph="..." />
-            <marker date="1538429428020" expanded="false" signature="80:99" ph="[...]" />
-            <marker date="1538429428020" expanded="true" signature="140:148" ph="{...}" />
+            <marker date="1539203983781" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539203983781" expanded="true" signature="80:99" ph="[...]" />
+            <marker date="1539203983781" expanded="true" signature="140:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539203983751" expanded="true" signature="80:104" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -223,16 +254,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <marker date="1538429412151" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538429412151" expanded="true" signature="121:736" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="297:734" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="328:380" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="401:453" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="487:546" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="571:613" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="639:672" ph="{...}" />
-            <marker date="1538429412151" expanded="true" signature="695:728" ph="{...}" />
+            <marker date="1539206384218" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206384218" expanded="true" signature="125:681" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="265:288" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="316:337" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="363:372" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="412:513" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="440:510" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="448:506" ph="/* newobject.EnergyLevel = 100; ... */" />
+            <marker date="1539206384218" expanded="true" signature="515:679" ph="/* public class Child : WhatCanSeeIt() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1539206098966" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206098966" expanded="true" signature="118:287" ph="{...}" />
+            <marker date="1539206098966" expanded="true" signature="159:196" ph="{...}" />
+            <marker date="1539206098966" expanded="true" signature="233:284" ph="{...}" />
           </folding>
         </state>
       </provider>
