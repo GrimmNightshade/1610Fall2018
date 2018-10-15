@@ -19,10 +19,12 @@
         <e p="Scenes" t="Include">
           <e p="AddMoney.cs" t="Include" />
           <e p="CharacterMover" t="Include">
+            <e p="AddToCollection.cs" t="Include" />
             <e p="CharacterMover.cs" t="Include" />
             <e p="DestroyObject.cs" t="Include" />
             <e p="Instancing.cs" t="Include" />
             <e p="LocalVars.cs" t="Include" />
+            <e p="ObectCollection.cs" t="Include" />
             <e p="WhatCanSeeIt.cs" t="Include" />
           </e>
           <e p="FirstGame" t="Include">

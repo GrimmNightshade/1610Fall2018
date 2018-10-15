@@ -14,7 +14,7 @@
       <file leaf-file-name="IfStatements.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="240">
               <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
@@ -40,16 +40,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state>
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <marker date="1539206098966" expanded="false" signature="6:78" ph="..." />
                 <marker date="1539206098966" expanded="true" signature="118:287" ph="{...}" />
                 <marker date="1539206098966" expanded="true" signature="159:196" ph="{...}" />
                 <marker date="1539206098966" expanded="true" signature="233:284" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObectCollection.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/ObectCollection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <marker date="1539638757074" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539638757074" expanded="true" signature="146:206" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddToCollection.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/AddToCollection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1539638741671" expanded="false" signature="6:103" ph="..." />
+                <marker date="1539638741671" expanded="true" signature="170:314" ph="{...}" />
+                <marker date="1539638741671" expanded="true" signature="260:312" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -61,10 +88,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/AddToCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/ObectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -74,6 +103,9 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/Collection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/ObectCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMover/AddToCollection.cs" />
       </list>
     </option>
   </component>
@@ -84,8 +116,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="409" />
-    <option name="y" value="33" />
+    <option name="x" value="-5" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -95,11 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -111,6 +137,11 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -150,11 +181,12 @@
       <workItem from="1538427083751" duration="4000" />
       <workItem from="1538427523318" duration="1862000" />
       <workItem from="1539205757687" duration="1310000" />
+      <workItem from="1539636512014" duration="2432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3180000" />
+    <option name="totallyTimeSpent" value="5612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -166,7 +198,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="409" y="33" width="1400" height="1000" extended-state="0" />
+    <frame x="-5" y="0" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -176,7 +208,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -208,55 +240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1539203983781" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539203983781" expanded="true" signature="80:99" ph="[...]" />
-            <marker date="1539203983781" expanded="true" signature="140:148" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539203983751" expanded="true" signature="80:104" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1539203983781" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539203983781" expanded="true" signature="80:99" ph="[...]" />
-            <marker date="1539203983781" expanded="true" signature="140:148" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539203983751" expanded="true" signature="80:104" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -284,6 +267,101 @@
             <marker date="1539206098966" expanded="true" signature="118:287" ph="{...}" />
             <marker date="1539206098966" expanded="true" signature="159:196" ph="{...}" />
             <marker date="1539206098966" expanded="true" signature="233:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/WhatCanSeeIt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <marker date="1539206384218" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206384218" expanded="true" signature="125:681" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="265:288" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="316:337" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="363:372" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="412:513" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="440:510" ph="{...}" />
+            <marker date="1539206384218" expanded="true" signature="448:506" ph="/* newobject.EnergyLevel = 100; ... */" />
+            <marker date="1539206384218" expanded="true" signature="515:679" ph="/* public class Child : WhatCanSeeIt() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/LocalVars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1539206098966" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206098966" expanded="true" signature="118:287" ph="{...}" />
+            <marker date="1539206098966" expanded="true" signature="159:196" ph="{...}" />
+            <marker date="1539206098966" expanded="true" signature="233:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/Collection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/ObectCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <marker date="1539638757074" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539638757074" expanded="true" signature="146:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/AddToCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1539638741671" expanded="false" signature="6:103" ph="..." />
+            <marker date="1539638741671" expanded="true" signature="170:314" ph="{...}" />
+            <marker date="1539638741671" expanded="true" signature="260:312" ph="{...}" />
           </folding>
         </state>
       </provider>
