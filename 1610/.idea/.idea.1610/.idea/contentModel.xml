@@ -34,6 +34,7 @@
           <e p="Gamestates" t="Include">
             <e p="GameStates.cs" t="Include" />
             <e p="SwitchStatements.cs" t="Include" />
+            <e p="Working.cs" t="Include" />
           </e>
           <e p="Loops.cs" t="Include" />
           <e p="Statements" t="Include">
