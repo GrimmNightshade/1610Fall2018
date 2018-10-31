@@ -23,14 +23,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Weapons.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Weapons.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <marker date="1541020209910" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541020209910" expanded="true" signature="117:224" ph="{...}" />
+                <marker date="1541020209910" expanded="true" signature="145:213" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwitchWeapons.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchWeapons.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <marker date="1541020229835" expanded="true" signature="6:104" ph="..." />
+                <marker date="1541020229835" expanded="true" signature="149:804" ph="{...}" />
+                <marker date="1541020229835" expanded="true" signature="318:802" ph="{...}" />
+                <marker date="1541020229835" expanded="true" signature="342:799" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="GameStates.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding>
-                <marker date="1540846688918" expanded="true" signature="24:177" ph="{...}" />
-                <marker date="1540846688918" expanded="true" signature="49:144" ph="{...}" />
+                <marker date="1541018345831" expanded="true" signature="24:177" ph="{...}" />
+                <marker date="1541018345831" expanded="true" signature="49:144" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,28 +68,13 @@
       <file leaf-file-name="SwitchStatements.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
-                <marker date="1540846928966" expanded="false" signature="6:104" ph="..." />
-                <marker date="1540846928966" expanded="true" signature="151:1005" ph="{...}" />
-                <marker date="1540846928966" expanded="true" signature="333:1003" ph="{...}" />
-                <marker date="1540846928966" expanded="true" signature="366:997" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Working.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Working.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <marker date="1540847688273" expanded="false" signature="6:104" ph="..." />
-                <marker date="1540847688273" expanded="true" signature="142:788" ph="{...}" />
-                <marker date="1540847688273" expanded="true" signature="312:786" ph="{...}" />
-                <marker date="1540847688273" expanded="true" signature="336:783" ph="{...}" />
+                <marker date="1541018345832" expanded="true" signature="6:104" ph="..." />
+                <marker date="1541018345832" expanded="true" signature="151:1005" ph="{...}" />
+                <marker date="1541018345832" expanded="true" signature="333:1003" ph="{...}" />
+                <marker date="1541018345832" expanded="true" signature="366:997" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,15 +86,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FirstGame/AlterForce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/AddMoney.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Working.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchWeapons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMover/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Weapons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/AddMoney.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Statements/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FirstGame/AlterForce.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +112,8 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Gamestates/Working.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchWeapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Gamestates/Weapons.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-5" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -128,6 +146,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -139,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -197,11 +215,12 @@
       <workItem from="1540845201216" duration="10000" />
       <workItem from="1540845393677" duration="1837000" />
       <workItem from="1540847616735" duration="269000" />
+      <workItem from="1541019397892" duration="832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10696000" />
+    <option name="totallyTimeSpent" value="11528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,8 +232,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-5" y="0" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -224,7 +242,7 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2119403" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="14" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -263,11 +281,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1541018345831" expanded="true" signature="24:177" ph="{...}" />
+            <marker date="1541018345831" expanded="true" signature="49:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
-            <marker date="1540846688918" expanded="true" signature="24:177" ph="{...}" />
-            <marker date="1540846688918" expanded="true" signature="49:144" ph="{...}" />
+            <marker date="1541018345831" expanded="true" signature="24:177" ph="{...}" />
+            <marker date="1541018345831" expanded="true" signature="49:144" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -277,10 +305,10 @@
         <state relative-caret-position="150">
           <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
           <folding>
-            <marker date="1540846928966" expanded="false" signature="6:104" ph="..." />
-            <marker date="1540846928966" expanded="true" signature="151:1005" ph="{...}" />
-            <marker date="1540846928966" expanded="true" signature="333:1003" ph="{...}" />
-            <marker date="1540846928966" expanded="true" signature="366:997" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="6:104" ph="..." />
+            <marker date="1541018345832" expanded="true" signature="151:1005" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="333:1003" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="366:997" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -365,50 +393,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <marker date="1540846688918" expanded="true" signature="24:177" ph="{...}" />
-            <marker date="1540846688918" expanded="true" signature="49:144" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1540846928966" expanded="false" signature="6:104" ph="..." />
-            <marker date="1540846928966" expanded="true" signature="151:1005" ph="{...}" />
-            <marker date="1540846928966" expanded="true" signature="333:1003" ph="{...}" />
-            <marker date="1540846928966" expanded="true" signature="366:997" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/FirstGame/AlterForce.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1538598778472" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538598778472" expanded="true" signature="120:366" ph="{...}" />
-            <marker date="1538598778472" expanded="true" signature="272:364" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Working.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
           <folding>
-            <marker date="1540847688273" expanded="false" signature="6:104" ph="..." />
-            <marker date="1540847688273" expanded="true" signature="142:788" ph="{...}" />
-            <marker date="1540847688273" expanded="true" signature="312:786" ph="{...}" />
-            <marker date="1540847688273" expanded="true" signature="336:783" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="6:104" ph="..." />
+            <marker date="1541018345832" expanded="true" signature="151:1005" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="333:1003" ph="{...}" />
+            <marker date="1541018345832" expanded="true" signature="366:997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/GameStates.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1541018345831" expanded="true" signature="24:177" ph="{...}" />
+            <marker date="1541018345831" expanded="true" signature="49:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/SwitchWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1541020229835" expanded="true" signature="6:104" ph="..." />
+            <marker date="1541020229835" expanded="true" signature="149:804" ph="{...}" />
+            <marker date="1541020229835" expanded="true" signature="318:802" ph="{...}" />
+            <marker date="1541020229835" expanded="true" signature="342:799" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Gamestates/Weapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1541020209910" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541020209910" expanded="true" signature="117:224" ph="{...}" />
+            <marker date="1541020209910" expanded="true" signature="145:213" ph="{...}" />
           </folding>
         </state>
       </provider>
