@@ -12,7 +12,7 @@ public class SwitchWeapons : MonoBehaviour {
 
 	private void Update()
 	{
-		switch (GameState)
+		/*switch (GameState)
 		{
 			case Weapons.WeaponTypes.Starting:
 				print("Starting the game now");
@@ -35,6 +35,6 @@ public class SwitchWeapons : MonoBehaviour {
 			case Weapons.WeaponTypes.Ending:
 				print("Ending Game");
 				break;
-		}
+		} */
 	}
 }
