@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Tyler Bundy\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Tyler Bundy\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610.451168083.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Tyler Bundy\Documents\Repo\1610Fall2018\1610" t="IncludeRecursive">
+    <e p="A:\Repos\1610Fall2018\1610" t="IncludeRecursive">
       <e p="1610.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -23,6 +21,7 @@
           <e p="AI" t="Include">
             <e p="BasicAI.cs" t="Include" />
             <e p="EventRepeate.cs" t="Include" />
+            <e p="OnTouchKill.cs" t="Include" />
             <e p="UpdateAnims.cs" t="Include" />
           </e>
           <e p="CharacterMover" t="Include">
@@ -39,8 +38,12 @@
             <e p="OnPlayerMove.cs" t="Include" />
           </e>
           <e p="GameOne" t="Include">
-            <e p="2d Character Mover.cs" t="Include" />
-            <e p="OnTouchKill.cs" t="Include" />
+            <e p="Fire.cs" t="Include" />
+            <e p="FlatMover.cs" t="Include" />
+            <e p="GunSwitch.cs" t="Include" />
+            <e p="Instancing2D.cs" t="Include" />
+            <e p="TouchKill.cs" t="Include" />
+            <e p="WeaponTypes.cs" t="Include" />
           </e>
           <e p="Gamestates" t="Include">
             <e p="GameStates.cs" t="Include" />
@@ -73,5 +76,7 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
+    <e p="C:\Users\Crimson Crystal\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Crimson Crystal\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610.-1920461514.00" t="ExcludeRecursive" />
   </component>
 </project>
