@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class FlatMover : MonoBehaviour {
 
-	private Rigidbody2D Controller;
+	public Rigidbody2D Controller;
 	public float Gravity = 9.5f;
 	public float MoveSpeed = 10f;
 	public float JumpSpeed = 100f;
@@ -24,7 +24,7 @@ public class FlatMover : MonoBehaviour {
 	public float MoveSmoother = .5f;
 	private float HeadCollider = .2f;
 
-	public UnityEvent OnLandEvent;
+	public UnityEvent OnLandEvent, Walking, Idle, Attack;
 
 // Finds the Object it needs to move
 	void Start () {
@@ -33,7 +33,7 @@ public class FlatMover : MonoBehaviour {
 
 	
 	//Checks if grounded
-	void FixedUpdate()
+	public void FixedUpdate()
 	{
 		bool Grounded = OnGround;
 		OnGround = false;
@@ -53,19 +53,21 @@ public class FlatMover : MonoBehaviour {
 
 		if (OnGround == true)
 		{
-		/*	if (!crouch)
+			//Attack Command
+			if (Input.GetButtonDown("Fire1"))
 			{
-				if (Physics2D.OverlapCircle(Controller.position, HeadCollider, IsGround)) ;
-				{
-					crouch = true;
-				}
-			}*/
-
+				Attack.Invoke();
+				
+			}
+			
 			
 			Vector3 targetVelocity = new Vector2(MoveSpeed * Input.GetAxis("Horizontal"), Controller.velocity.y);
-
+			
+			//Moves Character
 			Controller.velocity = Vector3.SmoothDamp(Controller.velocity, targetVelocity, ref C_Velocity, MoveSmoother);
-
+			
+			Walking.Invoke();
+			
 			//Flips Character direction
 			if (Input.GetAxis("Horizontal") > 0 && !FaceRight || Input.GetAxis("Horizontal") < 0 && FaceRight)
 			{
@@ -79,6 +81,11 @@ public class FlatMover : MonoBehaviour {
 			{
 				OnGround = false;
 				Controller.AddForce(new Vector2(0f, JumpSpeed));
+			}
+
+			if (!Input.GetButton("Horizontal"))
+			{
+				Idle.Invoke();
 			}
 		}
 	}

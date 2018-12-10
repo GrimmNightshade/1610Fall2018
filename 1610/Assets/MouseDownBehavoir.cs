@@ -10,6 +10,7 @@ public class MouseDownBehavoir : MonoBehaviour {
 	private void OnMouseDown()
 	{
 		MouseDown.Invoke();
+		print("Test");
 	}
 	private void OnMouseUp()
 	{

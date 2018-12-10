@@ -7,11 +7,9 @@
       <e p="Assets" t="Include">
         <e p="AddValue.cs" t="Include" />
         <e p="Animal.cs" t="Include" />
-        <e p="Damage" t="Include">
-          <e p="Kill.cs" t="Include" />
-        </e>
         <e p="Dog.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
+        <e p="Limit.cs" t="Include" />
         <e p="MouseDownBehavoir.cs" t="Include" />
         <e p="move.cs" t="Include" />
         <e p="Move2d.cs" t="Include" />
@@ -33,17 +31,20 @@
             <e p="ObectCollection.cs" t="Include" />
             <e p="WhatCanSeeIt.cs" t="Include" />
           </e>
-          <e p="FirstGame" t="Include">
-            <e p="AlterForce.cs" t="Include" />
-            <e p="OnPlayerMove.cs" t="Include" />
-          </e>
           <e p="GameOne" t="Include">
             <e p="Fire.cs" t="Include" />
             <e p="FlatMover.cs" t="Include" />
-            <e p="GunSwitch.cs" t="Include" />
+            <e p="GameModeSwitch.cs" t="Include" />
+            <e p="GameTypes.cs" t="Include" />
             <e p="Instancing2D.cs" t="Include" />
+            <e p="Kill.cs" t="Include" />
+            <e p="KillEnemy.cs" t="Include" />
+            <e p="NewBehaviourScript.cs" t="Include" />
+            <e p="Text" t="Include">
+              <e p="ChangeText.cs" t="Include" />
+            </e>
             <e p="TouchKill.cs" t="Include" />
-            <e p="WeaponTypes.cs" t="Include" />
+            <e p="UITextChanger.cs" t="Include" />
           </e>
           <e p="Gamestates" t="Include">
             <e p="GameStates.cs" t="Include" />
@@ -63,6 +64,7 @@
             </e>
           </e>
         </e>
+        <e p="StringData.cs" t="Include" />
         <e p="TriggerEventBehaviour.cs" t="Include" />
         <e p="Useless code" t="Include">
           <e p="PowerUp.cs" t="Include" />

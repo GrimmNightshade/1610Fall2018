@@ -7,9 +7,10 @@ public class Instancing : MonoBehaviour {
 
 	void Update ()
 	{
-		if (Input.GetKeyDown(KeyCode.F)) {
-
+		if (Input.GetButton("Fire1")) {
+		
 		Instantiate(Instance, transform.position, transform.rotation);
+		
  {
 	 
  }
