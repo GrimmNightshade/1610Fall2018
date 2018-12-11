@@ -15,8 +15,9 @@ public class AddValue : ScriptableObject {
 
 	public void AddValueToObj (FloatData data)
 	 {
-		ValueObj.Value += data.Value;
-
+			 ValueObj.Value += data.Value;
+		
+		 
 		if (ValueObj.Value >= Maxvalue.Value)
 		{
 			EventMax.Invoke();

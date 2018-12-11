@@ -7,20 +7,43 @@ using UnityEngine.Events;
 
 public class GameModeSwitch : MonoBehaviour {
 	
-	public GameTypes.wTypes gameLoad;
-
+	public GameTypes.wTypes GameLoad;
+	public FloatData Flipper;
+	
 	public UnityEvent Start, Play, Death, Win;
 	//refrencing the C# script gameStates
 
-	private void Update(String mode)
+
+	private void Update()
 	{
+		if (Flipper.Value == 1f)
+		{
+			GameLoad = GameTypes.wTypes.Starting;
+		}
+		else if (Flipper.Value == 2f)
+		{
+			GameLoad = GameTypes.wTypes.Playing;
+		}
+		else if (Flipper.Value == 3f)
+		{
+			GameLoad = GameTypes.wTypes.Death;
+		}
+		else if (Flipper.Value == 4f)
+		{
+			GameLoad = GameTypes.wTypes.Win;
+		}
+		else
+		{
+			print("Errrorr!!!!");
+		}
 	
 		
-		switch (gameLoad)
+	switch (GameLoad)
 		{
 			case GameTypes.wTypes.Starting:
 				
 				Start.Invoke();
+				
 				break;
              
              
@@ -43,5 +66,7 @@ public class GameModeSwitch : MonoBehaviour {
 				
 
 		}
+		
 	}
+	
 }

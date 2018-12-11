@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 966036e8356610849840b04fe1f0114f, type: 3}
   m_Name: StartText
   m_EditorClassIdentifier: 
-  Value: Push To Start
+  Value: 

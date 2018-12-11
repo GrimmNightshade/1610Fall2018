@@ -8,6 +8,6 @@ public class ChangeText : ScriptableObject
 
     public void StringUpdate (StringData Input)
     {
-         Input.Value = Output.Value;
+        Output.Value = Input.Value;
     }
 }

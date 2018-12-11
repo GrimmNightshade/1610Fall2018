@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: GameModeMath
   m_EditorClassIdentifier: 
   ValueObj: {fileID: 11400000, guid: 7a6f1e01c81c2c049b224a7b3967a188, type: 2}
-  Maxvalue: {fileID: 0}
-  MinValue: {fileID: 0}
+  Maxvalue: {fileID: 11400000, guid: dcae6545a1c881c4db5147791fce16ee, type: 2}
+  MinValue: {fileID: 11400000, guid: 70b3db69e8be96545b48a38fc244aa99, type: 2}
   EventMax:
     m_PersistentCalls:
       m_Calls: []

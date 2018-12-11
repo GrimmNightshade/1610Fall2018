@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: c22f3813312463e4e900c69cdd1c2c5d
+guid: 1ff00d1dc628718438a75f34feee0d74
 TextureImporter:
   fileIDToRecycleName:
-    21300000: BladesMen_Walk_0
-    21300002: BladesMen_Walk_1
-    21300004: BladesMen_Walk_2
-    21300006: BladesMen_Walk_3
-    21300008: BladesMen_Walk_14
-    21300010: BladesMen_Walk_15
+    21300000: Health_0
+    21300002: Health_1
+    21300004: Health_2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -38,7 +35,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -101,101 +98,61 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BladesMen_Walk_0
+      name: Health_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 773
-        width: 622
-        height: 715
+        x: 24
+        y: 1969
+        width: 579
+        height: 179
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fd931a9312042a47b54fbcaf146f688
+      spriteID: 6be0579b29b8f344baa16842347077a3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BladesMen_Walk_2
+      name: Health_1
       rect:
         serializedVersion: 2
-        x: 781
-        y: 749
-        width: 527
-        height: 743
+        x: 36
+        y: 1691
+        width: 371
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4d7c94bbc78e9b45b7d8bf6c2565c8f
+      spriteID: e4630beda3cce5449aa8e41b07177099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BladesMen_Walk_3
+      name: Health_2
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 716
-        width: 474
-        height: 740
+        x: 18
+        y: 1371
+        width: 197
+        height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 852f79a87cefa8d43a73eab3de53b01f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BladesMen_Walk_14
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 402
-        height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff907e3b2b8d83f438de1ebc65a4f47a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BladesMen_Walk_15
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 0
-        width: 458
-        height: 664
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56365d38b6307694cb858009ac7d67ac
+      spriteID: 5e542f6be266b60468d0f3ca6fb21dd3
       vertices: []
       indices: 
       edges: []
@@ -203,7 +160,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: abd9917e6c3ea3840bcb7fa92ef83f4c
+    spriteID: 9137eae0514cab846833e176e13f808e
     vertices: []
     indices: 
     edges: []

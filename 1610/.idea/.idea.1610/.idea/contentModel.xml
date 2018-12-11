@@ -40,11 +40,15 @@
             <e p="Kill.cs" t="Include" />
             <e p="KillEnemy.cs" t="Include" />
             <e p="NewBehaviourScript.cs" t="Include" />
+            <e p="PlayButton.cs" t="Include" />
+            <e p="Reset.cs" t="Include" />
             <e p="Text" t="Include">
               <e p="ChangeText.cs" t="Include" />
+              <e p="PlayerControllerBool.cs" t="Include" />
             </e>
             <e p="TouchKill.cs" t="Include" />
             <e p="UITextChanger.cs" t="Include" />
+            <e p="VeryBasicAI.cs" t="Include" />
           </e>
           <e p="Gamestates" t="Include">
             <e p="GameStates.cs" t="Include" />
@@ -63,6 +67,9 @@
               <e p="ValueChange.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="HeartUI.cs" t="Include" />
         </e>
         <e p="StringData.cs" t="Include" />
         <e p="TriggerEventBehaviour.cs" t="Include" />
